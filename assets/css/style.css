@@ -1,0 +1,55 @@
+/*
+ CODED BY MAHDI HAZAVEH
+ <mahdi@hazaveh.net>
+*/
+/* 
+    Created on : Sep 4, 2015, 6:35:25 PM
+    Author     : xpl0it
+*/
+
+body {
+    margin-top:0px;
+    background-color: #181818;
+}
+
+.phpinput {
+    display: none;
+
+}
+
+.phpoutput {
+    background-color: #181D20;
+    padding: 10px;
+    border-radius: 5px;
+    height: 90%;
+    color: #A1A1A1;
+    overflow: scroll;
+    margin-bottom: 10px;
+    font-family: Hack, monospace, sans-serif;
+}
+#editor { 
+    //position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 90%;
+    font-family: Hack, monospace, sans-serif;
+    font-size: 12px;
+}
+
+.navbar-default {
+    background-color: #23272A;
+    border-color: #23272A;
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 7px;
+}
+
+.footer {
+    text-align: center;
+    color: #474747;
+    font-family: Hack, monospace, sans-serif;
+}
