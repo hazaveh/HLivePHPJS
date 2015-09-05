@@ -29,7 +29,7 @@ require_once 'includes.php';
 
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="#" id="compile">COMPILE</a></li>
-                        <li><a href="#">HELP</a></li>
+                        <li><a href="http://www.hazaveh.net/tools/hlivephpjs-live-php-and-javascript-compiler">HELP</a></li>
 
                     </ul>
                 </div><!-- /.navbar-collapse -->
